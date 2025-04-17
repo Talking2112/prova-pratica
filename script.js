@@ -16,7 +16,7 @@ class Entidade{
 }
 
 
-const objeto_na_tela = new Entidade(50,50,50,50,'red')
+const objeto_na_tela = new Entidade(50,50,50,50,'white')
 
 
 function loop(){
