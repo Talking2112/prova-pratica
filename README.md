@@ -1,1 +1,2 @@
 # prova-pratica
+Nesta avaliação eu vou fazer um jogo 2d utilizando o canvas, o jogo vai ser um pong simples onde havera dois personagens que baterão uma bola se a bola passar por um dos dois personagens vai dar uma tela de game over, e é isso por enquanto.
